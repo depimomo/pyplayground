@@ -1,0 +1,577 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ims",
+				"imshow\tfunction"
+			],
+			[
+				"get",
+				"get_handwriting_files\tfunction"
+			],
+			[
+				"mi",
+				"mi_he\tstatement"
+			],
+			[
+				"re",
+				"resize_width\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "coba_gabor.py",
+			"settings":
+			{
+				"buffer_size": 823,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "import cv2"
+			}
+		},
+		{
+			"file": "plot_gabor.py",
+			"settings":
+			{
+				"buffer_size": 4450,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gabor_wavelet.py",
+			"settings":
+			{
+				"buffer_size": 1551,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "import os"
+			}
+		},
+		{
+			"file": "gabor_tensor.py",
+			"settings":
+			{
+				"buffer_size": 393,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "import tensorflow as tf"
+			}
+		},
+		{
+			"file": "my_main.py",
+			"settings":
+			{
+				"buffer_size": 1178,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "#filter image using gabor"
+			}
+		}
+	],
+	"build_system": "Packages/User/python3.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/python3.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 384.0,
+		"last_filter": "colo",
+		"selected_items":
+		[
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"the",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 465.0
+	},
+	"console":
+	{
+		"height": 217.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"l"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/opt/lampp/htdocs"
+	],
+	"file_history":
+	[
+		"/home/monica/.config/sublime-text-3/Packages/GoSublime/USAGE.md",
+		"/home/monica/Documents/pyplayground/millenia_ws.py",
+		"/home/monica/Documents/pyplayground/gpu_tf.py",
+		"/home/monica/Documents/pyplayground/tes_train2.py",
+		"/home/monica/Documents/pyplayground/gabor_thread.py",
+		"/home/monica/Documents/pyplayground/gabor_wiki.py",
+		"/home/monica/Documents/pyplayground/test_train.py",
+		"/home/monica/Documents/pyplayground/gabor_wavelet_tensor.py",
+		"/home/monica/Documents/pyplayground/Projects_Python/Projects_Python/gabor_tf_final.py",
+		"/home/monica/Documents/pyplayground/labels_1024.tsv",
+		"/home/monica/Documents/pyplayground/mnist.py",
+		"/home/monica/Documents/pyplayground/test_tf.py",
+		"/home/monica/Documents/pyplayground/simple_logisticregression.py",
+		"/home/monica/Documents/pyplayground/contoh.bat",
+		"/home/monica/Documents/pyplayground/simple_ml_gender.py",
+		"/home/monica/Documents/pyplayground/simple_knn.py",
+		"/media/monica/DATA/OneDrive - multimedia nusantara/MOVIE/Cheese in Trap/1.srt",
+		"/media/monica/DATA/OneDrive - multimedia nusantara/MOVIE/Cheese in Trap/2.srt",
+		"/home/monica/.config/sublime-text-3/Packages/User/python3.sublime-build",
+		"/home/monica/.config/sublime-text-3/Packages/GoSublime/CHANGELOG.md",
+		"/home/monica/.profile",
+		"/home/monica/.bashrc",
+		"/home/monica/.bashrc-anaconda2.bak",
+		"/media/monica/DATA/GoogleDrive/KULIAH/materi kuliah/smt7/MRSI/handwriting/genpred/genpred.r",
+		"/media/monica/DATA/GoogleDrive/KULIAH/materi kuliah/smt7/MRSI/handwriting/genpred/train.csv",
+		"/media/monica/DATA/GoogleDrive/KULIAH/materi kuliah/smt7/MRSI/handwriting/genpred/features.csv",
+		"/media/monica/DATA/GoogleDrive/KULIAH/materi kuliah/smt7/OTHER/Analisis Data/runMeFirst.r",
+		"/home/monica/.config/sublime-text-3/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+		"/home/monica/Documents/pyplayground/test.py",
+		"/home/monica/Documents/pyplayground/resize.py",
+		"/home/monica/Documents/pyplayground/rmborder.py",
+		"/home/monica/Documents/pyplayground/checkjpg.py",
+		"/home/monica/Documents/pyplayground/tes_stretch.py",
+		"/home/monica/Documents/pyplayground/batch_crop_resize.py",
+		"/home/monica/Documents/pyplayground/resize_only.py",
+		"/home/monica/Documents/pyplayground/test_crop.py",
+		"/home/monica/Documents/pyplayground/test_astropy.py",
+		"/home/monica/Documents/pyplayground/stretch.py",
+		"/home/monica/Documents/pyplayground/check_height.py",
+		"/home/monica/Documents/pyplayground/crop_4.py",
+		"/media/monica/DATA/GoogleDrive/KULIAH/materi kuliah/smt7/SKRIPSI/DATASET/label.csv",
+		"/media/monica/DATA/GoogleDrive/KULIAH/materi kuliah/smt7/MRSI/handwriting/train_answers.csv",
+		"/media/monica/DATA/GoogleDrive/KULIAH/materi kuliah/smt7/MRSI/handwriting/example_submission.csv",
+		"/media/monica/DATA/GoogleDrive/KULIAH/materi kuliah/smt7/MRSI/handwriting/train/train.csv",
+		"/home/monica/.config/sublime-text-3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/media/monica/DATA/GoogleDrive/KULIAH/materi kuliah/smt7/SKRIPSI/DATASET/1_1017_crop_clean/0001/resize.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print",
+			"urllib",
+			"cuda",
+			"ImageChops",
+			"year"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/opt/lampp/htdocs"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "coba_gabor.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								303,
+								303
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import cv2",
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "plot_gabor.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2294,
+								2294
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1370.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "gabor_wavelet.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1551,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								671,
+								671
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import os",
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 585.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "gabor_tensor.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 393,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								393,
+								393
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import tensorflow as tf",
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "my_main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								363,
+								363
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.go"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"auto_name": "#filter image using gabor",
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime-main-output":
+	{
+		"height": 110.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 103.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 25.0
+	},
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mill",
+				"millenia_ws.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/pyplayground/millenia_ws.py"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
